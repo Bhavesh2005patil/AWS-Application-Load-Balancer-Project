@@ -1,5 +1,9 @@
 // ===== Server Configuration =====
+<<<<<<< HEAD
 const SERVER_NAME = "CloudCafe Server 2";
+=======
+const SERVER_NAME = "CloudCafe Server 1";   // Change to Server 2 on second EC2
+>>>>>>> 472c9ea004d4740cb6f887604513041090f7116e
 const REGION = "ap-south-1";
 const LOAD_BALANCER = "CloudCafe-ALB2";
 
